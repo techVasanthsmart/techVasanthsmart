@@ -1,64 +1,61 @@
-# 👋 Hi, I'm Vasanth (techVasanthsmart)
+# Hi, I'm Vasanth 👋
 
-### Senior Full Stack Developer | Leading End-to-End Product Development | Scalable Systems
+📍 India | 🚀 Senior Full Stack Developer | Scalable Systems & Product Engineering
 
-I'm a software developer building practical, user-focused applications. I enjoy working on web apps, automation, and cloud integrations. This profile README is modeled with the structure and clarity of profiles like steipete's — editable so you can personalize the content and links.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## About
+I design, build and ship production-grade applications — from UI to database and deployment. I focus on clean architecture, pragmatic delivery, and reliable systems.
 
-- 🔭 I’m currently working on: improving projects and learning modern cloud-native patterns.
-- 🌱 I’m currently learning: advanced JavaScript/TypeScript and DevOps practices.
-- 👯 I’m open to collaborating on open-source projects and automation tools.
-- 💬 Ask me about: web development, small-team tooling, and deployment pipelines.
+---
 
-## Featured Projects
+## Current Projects
 
-- See all my projects: https://github.com/techVasanthsmart?tab=repositories
-- Open-source projects I maintain:
-  - AI Flight Booking Assistant — https://github.com/techVasanthsmart/AI-Flight-Booking-Assistant
-  - Multi-AI Bot Conversation — https://github.com/techVasanthsmart/Multi-AI-Bot-Conversation
-  - AI Synthetic Dataset Factory — https://github.com/techVasanthsmart/AI_Synthetic_Dataset_Factory
-  - PDF Toolkit (live) — https://pdf-toolkit.vasanthubs.co.in/
-    - Fusion Core: Drag, drop, and merge multiple PDF documents into a single, organized file instantly.
-    - Split PDF: Split one PDF by every page or by custom page ranges (e.g. 1-3, 5, 7).
-    - Reorder Pages: Reorder or remove pages from a PDF, then download the result.
-    - Images to PDF: Convert images (JPEG, PNG, WebP) into a single PDF.
-    - Markdown to PDF: Paste or upload Markdown and convert to a clean, readable PDF.
-    - Launch tools and utilities available on the live site for quick PDF workflows.
-  - Live demos (Streamlit):
-    - AI Synthetic Dataset Factory — https://aisyntheticdatasetfactory-debqy6maxvmrskryhx5jtk.streamlit.app/
-    - AI Flight Booking Assistant — https://ai-flight-booking-assistant-qwyknk3lgu6qgjgaab7qvb.streamlit.app/
+- **AI Flight Booking Assistant** — https://github.com/techVasanthsmart/AI-Flight-Booking-Assistant
+- **Multi-AI Bot Conversation** — https://github.com/techVasanthsmart/Multi-AI-Bot-Conversation
+- **AI Synthetic Dataset Factory** — https://github.com/techVasanthsmart/AI_Synthetic_Dataset_Factory
+- **PDF Toolkit (live)** — https://pdf-toolkit.vasanthubs.co.in/
+  - Fusion Core: merge multiple PDFs quickly
+  - Split PDF: by page or custom ranges
+  - Reorder Pages, Images→PDF, Markdown→PDF
+- **Live demos (Streamlit)**
+  - AI Synthetic Dataset Factory — https://aisyntheticdatasetfactory-debqy6maxvmrskryhx5jtk.streamlit.app/
+  - AI Flight Booking Assistant — https://ai-flight-booking-assistant-qwyknk3lgu6qgjgaab7qvb.streamlit.app/
+
+---
 
 ## Expertise
 
-❖ React JS, Node JS
-❖ PHP: CODEIGNITER, LARAVEL
-❖ JQUERY, AJAX
-❖ HTML, CSS
-❖ MYSQL
+- React JS, Node JS
+- PHP: CodeIgniter, Laravel
+- jQuery, AJAX
+- HTML, CSS, MySQL
 
 ### Intermediate
 
-❖ ZOHO CRM, Deluge
-❖ Google Cloud (VM Instances)
-❖ TAURI – Cross Platform
-❖ MongoDB
-❖ GIT, GITBASH, GITHUB
-
-## Skills & Tools
-
-- Languages: JavaScript, TypeScript, Python
-- Web: React, Node.js, Express
-- Cloud / DevOps: Docker, GitHub Actions, CI/CD
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/vasanthkumar-s-0995a5185/
-- GitHub: https://github.com/techVasanthsmart
-- GitHub Activity: https://github.com/techVasanthsmart?tab=activity
-- What I'm Doing (portfolio): https://vasanthubs.co.in/
+- ZOHO CRM, Deluge
+- Google Cloud (VM Instances)
+- Tauri (Cross-platform desktop apps)
+- MongoDB
+- Git, Git Bash, GitHub
 
 ---
+
+## What I'm Doing
+
+- Building and maintaining production web apps and automation tools
+- Exploring AI-assisted development workflows and dataset tooling
+- Writing about engineering practices and deployment patterns
+- See live work & portfolio: https://vasanthubs.co.in/
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/techVasanthsmart)
 
 ## GitHub Stats
 
@@ -67,4 +64,12 @@ I'm a software developer building practical, user-focused applications. I enjoy 
 
 ---
 
-Personalize this file: replace placeholders (email, project links, blog) and add any badges or emojis you like. When ready, commit and push the repository named `techVasanthsmart` on GitHub to enable the profile README.
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthkumar-s-0995a5185/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/techVasanthsmart)
+[Portfolio](https://vasanthubs.co.in/)
+
+---
+
+If you'd like, I can add a small list of latest blog posts or embed badges for NPM/Docs/Live deployments. When ready, commit & push to make this the profile README for your `techVasanthsmart` repo.
