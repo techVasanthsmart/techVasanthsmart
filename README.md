@@ -21,6 +21,12 @@ I design, build and ship production-grade applications — from UI to database a
   - Fusion Core: merge multiple PDFs quickly
   - Split PDF: by page or custom ranges
   - Reorder Pages, Images→PDF, Markdown→PDF
+- **DocMind - RAG Chat Application (live)** — https://docmind.vasanthubs.co.in
+  - https://github.com/techVasanthsmart/DocMind
+  - Retrieval-Augmented Generation (RAG) agent for websites
+  - Built with Next.js 15, LangChain, OpenAI, and Tailwind CSS
+  - Crawl & chat with any website's content in real-time
+  - Anti-hallucination with context-aware responses
 - **Live demos (Streamlit)**
   - AI Synthetic Dataset Factory — https://aisyntheticdatasetfactory-debqy6maxvmrskryhx5jtk.streamlit.app/
   - AI Flight Booking Assistant — https://ai-flight-booking-assistant-qwyknk3lgu6qgjgaab7qvb.streamlit.app/
